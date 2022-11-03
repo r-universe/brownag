@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "rgeedim"]
+	path = rgeedim
+	url = https://github.com/brownag/rgeedim
+	shallow = true
+	registered = true
