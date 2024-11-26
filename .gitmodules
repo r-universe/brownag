@@ -13,4 +13,4 @@
 	url = https://github.com/ncss-tech/rosettaPTF
 [submodule "whitebox"]
 	path = whitebox
-	url = https://github.com/opengeos/whitebox
+	url = https://github.com/opengeos/whiteboxr
