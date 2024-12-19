@@ -2,12 +2,18 @@
 	path = .registry
 	url = https://github.com/brownag/brownag.r-universe.dev
 	branch = HEAD
+[submodule "SSURGOPortal"]
+	path = SSURGOPortal
+	url = https://github.com/brownag/SSURGOPortalR
 [submodule "jNSMR"]
 	path = jNSMR
 	url = https://github.com/ncss-tech/jNSMR
 [submodule "rgeedim"]
 	path = rgeedim
 	url = https://github.com/brownag/rgeedim
+[submodule "rgeowheels"]
+	path = rgeowheels
+	url = https://github.com/brownag/rgeowheels
 [submodule "rosettaPTF"]
 	path = rosettaPTF
 	url = https://github.com/ncss-tech/rosettaPTF
