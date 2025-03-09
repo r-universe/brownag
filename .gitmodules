@@ -5,18 +5,15 @@
 [submodule "SSURGOPortal"]
 	path = SSURGOPortal
 	url = https://github.com/brownag/SSURGOPortalR
-[submodule "jNSMR"]
-	path = jNSMR
-	url = https://github.com/ncss-tech/jNSMR
+[submodule "gpkg"]
+	path = gpkg
+	url = https://github.com/brownag/gpkg
+[submodule "rapr"]
+	path = rapr
+	url = https://github.com/brownag/rapr
 [submodule "rgeedim"]
 	path = rgeedim
 	url = https://github.com/brownag/rgeedim
 [submodule "rgeowheels"]
 	path = rgeowheels
 	url = https://github.com/brownag/rgeowheels
-[submodule "rosettaPTF"]
-	path = rosettaPTF
-	url = https://github.com/ncss-tech/rosettaPTF
-[submodule "whitebox"]
-	path = whitebox
-	url = https://github.com/opengeos/whiteboxr
