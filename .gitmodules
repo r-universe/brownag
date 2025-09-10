@@ -14,6 +14,9 @@
 [submodule "rgeedim"]
 	path = rgeedim
 	url = https://github.com/brownag/rgeedim
+[submodule "rgeomorphon"]
+	path = rgeomorphon
+	url = https://github.com/brownag/rgeomorphon
 [submodule "rgeowheels"]
 	path = rgeowheels
 	url = https://github.com/brownag/rgeowheels
